@@ -2,7 +2,7 @@
 
 🎓 Final-year EE student at BMS College of Engineering, Bangalore  
 💻 I build AI-powered apps and data analytics tools using Python  
-🚀 2 live deployed applications | Open to Software Developer & Data Analyst roles  
+🚀 2 live deployed applications | Passionate about building tools that solve real problems 
 
 ---
 
