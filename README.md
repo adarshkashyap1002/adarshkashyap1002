@@ -41,6 +41,8 @@
 
 ## 📊 GitHub Stats
 
+![Adarsh's GitHub stats](https://readme-stats-eta-one.vercel.app/api?username=adarshkashyap1002&show_icons=true&hide_border=true)
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=adarshkashyap1002&show_icons=true&theme=default&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkashyap1002&layout=compact&theme=default&hide_border=true" height="150"/>
