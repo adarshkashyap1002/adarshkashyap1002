@@ -41,7 +41,9 @@
 
 ## 📊 GitHub Stats
 
-![Adarsh's GitHub stats](https://github-readme-stats-git-master-adarshkashyap1002.vercel.app/api?username=adarshkashyap1002&show_icons=true)
+![](https://komarev.com/ghpvc/?username=adarshkashyap1002&color=blue&style=flat&label=Profile+Views)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarshkashyap1002&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
