@@ -41,8 +41,7 @@
 
 ## 📊 GitHub Stats
 
-![Adarsh's GitHub stats](https://readme-stats-eta-one.vercel.app/api?username=adarshkashyap1002&show_icons=true&hide_border=true)
-
+![Adarsh's GitHub stats](https://github-readme-stats-git-master-adarshkashyap1002.vercel.app/api?username=adarshkashyap1002&show_icons=true)
 
 
 ---
